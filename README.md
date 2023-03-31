@@ -12,7 +12,7 @@ Tech Stack Frontend: Angular(material)
 
 Backend runs at Port 9090
 Frontend runs at Port 4200
-a MySQL
+
 
 
 
