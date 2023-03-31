@@ -10,13 +10,10 @@ Tech Stack Frontend: Angular(material) <br />
 
 2) a MySQL Server should be installed and be running. The App then creates the needed database automatically.
 
-Backend runs at Port 9090
-Frontend runs at Port 4200
+3 ) Backend runs at Port 9090 and Frontend runs at Port 4200
 
 
 
 
-
-
-
-![alt text](https://github.com/behitag/WebDev_Proj/blob/main/Github_Images/test.PNG?raw=true)
+###Screenshots
+![alt text](https://github.com/behitag/WebDev_final_project/blob/main/Github_Screenshots/Homepage.PNG?raw=true)
