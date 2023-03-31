@@ -1,5 +1,4 @@
-# WebDev_Proj
-Web Developement final Project
+# Web Developement final Project
 
 Tech Stack Backend:  SpringBoot, MySQL, Maven, JWT Token, Core-java, Spring Security <br />
 Tech Stack Frontend: Angular(material) <br />
