@@ -5,7 +5,7 @@ Tech Stack Frontend: Angular(material) <br />
 
 ### IMPORTANT Notes
 1) Admin credentials:
-   username: admin
+   username: admin <br />
    password: admin
    
 3) for the frontend, the packaging tool yarn should be used. Change to amazon-frontend and run these 2 commands:
