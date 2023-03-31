@@ -8,7 +8,7 @@ Tech Stack Frontend: Angular(material) <br />
    username: admin <br />
    password: admin
    
-3) for the frontend, the packaging tool yarn should be used. Change to amazon-frontend and run these 2 commands:
+3) for the frontend, the packaging tool yarn should be used. Change to the folder amazon-frontend and run these 2 commands:
 "npm install -g yarn" and "yarn install"
 
 2) a MySQL Server should be installed and be running. The App then creates the needed database automatically.
