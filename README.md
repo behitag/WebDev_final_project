@@ -20,4 +20,5 @@ Tech Stack Frontend: Angular(material) <br />
 <br />
 <br />
 <br />
+
 ![alt text](https://github.com/behitag/WebDev_final_project/blob/main/Github_Screenshots/Homepage.PNG?raw=true)
