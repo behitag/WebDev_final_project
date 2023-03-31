@@ -5,9 +5,8 @@ Tech Stack Backend:  SpringBoot, MySQL, Maven, JWT Token, Core-java, Spring Secu
 Tech Stack Frontend: Angular(material)
 
 ### IMPORTANT Notes
-1) for the frontend the packaging tool yarn should be used:
-npm install -g yarn
-yarn install
+1) for the frontend, the packaging tool yarn should be used. Change to amazon-frontend and run these 2 commands:
+"npm install -g yarn" and "yarn install"
 
 2) a MySQL Server should be installed and be running. The App then creates the needed database automatically.
 
