@@ -4,7 +4,7 @@ Web Developement final Project
 Tech Stack Backend:  SpringBoot, MySQL, Maven, JWT Token, Core-java, Spring Security
 Tech Stack Frontend: Angular(material)
 
-IMPORTANT Notes
+### IMPORTANT Notes
 1) for the frontend the packaging tool yarn should be used:
 npm install -g yarn
 yarn install
