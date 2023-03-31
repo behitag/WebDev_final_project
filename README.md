@@ -84,6 +84,4 @@ Tech Stack Frontend: Angular(material) <br />
 
 
 ### Basket
-![alt text](https://github.com/behitag/WebDev_final_project/blob/main/Github_Screenshots/Basket.PNG?raw=true)
-
-### End
+![alt text](https://github.com/behitag/WebDev_final_project/blob/main/Github_Screenshots/basket.PNG?raw=true)
