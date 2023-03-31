@@ -1,8 +1,8 @@
 # WebDev_Proj
 Web Developement final Project
 
-Tech Stack Backend:  SpringBoot, MySQL, Maven, JWT Token, Core-java, Spring Security
-Tech Stack Frontend: Angular(material)
+Tech Stack Backend:  SpringBoot, MySQL, Maven, JWT Token, Core-java, Spring Security <br />
+Tech Stack Frontend: Angular(material) <br />
 
 ### IMPORTANT Notes
 1) for the frontend, the packaging tool yarn should be used. Change to amazon-frontend and run these 2 commands:
