@@ -4,7 +4,7 @@ Tech Stack Backend:  SpringBoot, MySQL, Maven, JWT Token, Core-java, Spring Secu
 Tech Stack Frontend: Angular(material) <br />
 
 ### IMPORTANT Notes
-1) Admin credentials:
+1) Admin credentials: <br />
    username: admin <br />
    password: admin
    
