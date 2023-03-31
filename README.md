@@ -8,12 +8,12 @@ Tech Stack Frontend: Angular(material) <br />
    username: admin <br />
    password: admin
    
-3) for the frontend, the packaging tool yarn should be used. Change to the folder amazon-frontend and run these 2 commands:
+2) for the frontend, the packaging tool yarn should be used. Change to the folder amazon-frontend and run these 2 commands:
 "npm install -g yarn" and "yarn install"
 
-2) a MySQL Server should be installed and be running. The App then creates the needed database automatically.
+3) a MySQL Server should be installed and be running. The App then creates the needed database automatically.
 
-3 ) Backend runs at Port 9090 and Frontend runs at Port 4200
+4) Backend runs at Port 9090 and Frontend runs at Port 4200
 
 
 
